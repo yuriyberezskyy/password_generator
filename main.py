@@ -46,7 +46,3 @@ while len(generated_password) > 0:
 
 
 print(new_password)
-# for element in nr_letters:
-#   random_letter = random.randint(0,len(letters)-1)
-#   letter = letters[random_letter]
-#   gen_letters.append(letter)
